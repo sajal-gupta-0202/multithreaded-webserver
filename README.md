@@ -6,5 +6,3 @@ The application allows clients to connect to the server, send a "Hello" message,
 The multithreaded implementations enable handling multiple client connections concurrently, while the thread pool-based server improves scalability and resource management.
 
 The project aims to demonstrate proficiency in Java, including networking, concurrency, and error handling.
-
-Next update: User signup feature
